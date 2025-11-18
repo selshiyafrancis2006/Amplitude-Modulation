@@ -83,8 +83,8 @@ Output Waveform
 <img width="1584" height="1001" alt="image" src="https://github.com/user-attachments/assets/410e28bb-443b-4e50-a339-c355481f4e40" />
 
 TABULATION:
-<img width="1688" height="928" alt="image" src="https://github.com/user-attachments/assets/f1a048b1-6621-4326-a112-54f1eaea1bfc" />
 
+<img width="1494" height="894" alt="image" src="https://github.com/user-attachments/assets/c4856d94-0038-4877-9793-48f859795740" />
 
 
 Calculation
